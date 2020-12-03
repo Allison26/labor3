@@ -1,0 +1,41 @@
+body {
+    background-color: #f5e15d;
+}
+h1 {
+   text-align: center;
+   color: red;
+   transition-duration: 0.5s;
+}
+h1:hover {
+  color: black;
+}
+img{
+   float: left;
+   margin-right: 10px;
+}
+.hr_one {
+   border-style: none;
+   border-top: dotted 10px;
+   color: red;
+   width: 45px;
+}
+.hr_two {
+   border-style: none;
+   border-top: dotted 5px;
+   color: green;
+   width: 150px;
+}
+.p_1 {
+   font-size: 130%; 
+   font-family: sans-serif;
+   transition-duration: 0.3s; 
+}
+.p_1:hover{
+  color: red;
+  font-size: 135%;
+}
+
+.p_2 {
+   font-size: 200%; 
+   color: green;
+}
