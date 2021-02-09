@@ -39,6 +39,9 @@ img{
    font-size: 200%;
    color: green;
 }
+.links{
+  display: inline-block;
+}
 .exercise {
   display: block;
   margin-top: 100px;
